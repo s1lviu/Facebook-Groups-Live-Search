@@ -4,4 +4,4 @@
 
 <p>The extension do the search after backspace or return key press.</p>
 
-<p>You can download it here on <a href="https://chrome.google.com/webstore/detail/facebook-groups-live-sear/aphdbfipjfgkcddjjbkhiaofgaenabjg">Chrome Web Store</a>.</p>
+<p>You can download it here on <a href="https://chrome.google.com/webstore/detail/facebook-groups-live-sear/aphdbfipjfgkcddjjbkhiaofgaenabjg">Chrome Web Store</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/facebook-groups-live-search/">Firefox Addons</a>.</p>
